@@ -7,3 +7,5 @@ package-lock.json
 .claude
 
 2025-salaries.pdf
+
+__pycache__
